@@ -1,0 +1,11 @@
+Debian:
+  pkgs:
+    - i2pd
+  service: i2pd
+  config_file: '/etc/i2pd/i2pd.conf'
+  subscriptions_file: '/etc/i2pd/subscriptions.txt'
+  tunnels_file: '/etc/i2pd/tunnels.conf'
+  tunnels_dir: '/etc/i2pd/tunnels.conf.d'
+  https_support_pkg: apt-transport-https
+  
+
