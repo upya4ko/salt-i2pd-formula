@@ -2,7 +2,7 @@
 salt-i2pd-formula
 =================
 
-Simple Salt formula to install i2pd ( on debian.
+Simple Salt formula to install i2pd (PurpleI2P) router on debian.
 
 .. note::
 
